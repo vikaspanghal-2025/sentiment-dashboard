@@ -2,7 +2,6 @@
 
 Sentiment analysis dashboard for Amazon DynamoDB and Amazon Keyspaces, aggregating data from Reddit, StackOverflow, G2, PeerSpot, LinkedIn, X, and community forums.
 
-**[Live Demo](https://main.d1jng0r6vthxw5.amplifyapp.com)**
 
 ## What It Does
 
@@ -25,12 +24,7 @@ React 18 | TypeScript | Recharts | Vite | Framer Motion
 
 ## Getting Started
 
-```bash
-npm install
-npm run dev
-```
-
-Open http://localhost:5173
+**[Amazon Keyspaces and Amazon DynamoDB Customer Sentiments Dashboard](https://main.d1jng0r6vthxw5.amplifyapp.com)**
 
 ## Deployment
 
