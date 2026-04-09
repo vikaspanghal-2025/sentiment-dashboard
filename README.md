@@ -24,7 +24,7 @@ React 18 | TypeScript | Recharts | Vite | Framer Motion
 
 ## Getting Started
 
-**[Live Dashboard -> Amazon Keyspaces and Amazon DynamoDB Customer Sentiments](https://main.d1jng0r6vthxw5.amplifyapp.com)**
+**[Live Amazon Keyspaces and Amazon DynamoDB Customer Sentiments](https://main.d1jng0r6vthxw5.amplifyapp.com)**
 
 ## Deployment
 
