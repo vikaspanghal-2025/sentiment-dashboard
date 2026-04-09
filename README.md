@@ -1,4 +1,4 @@
-# Market and Customer Sentiment Dashboard
+# Market and Customer Sentiment Dashboard 🚀
 
 Sentiment analysis dashboard for Amazon DynamoDB and Amazon Keyspaces, aggregating data from Reddit, StackOverflow, G2, PeerSpot, LinkedIn, X, and community forums.
 
@@ -24,7 +24,7 @@ React 18 | TypeScript | Recharts | Vite | Framer Motion
 
 ## Getting Started
 
-**[Amazon Keyspaces and Amazon DynamoDB Customer Sentiments Dashboard](https://main.d1jng0r6vthxw5.amplifyapp.com)**
+**[Live Dashboard -> Amazon Keyspaces and Amazon DynamoDB Customer Sentiments](https://main.d1jng0r6vthxw5.amplifyapp.com)**
 
 ## Deployment
 
